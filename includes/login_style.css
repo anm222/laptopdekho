@@ -1,0 +1,13 @@
+.middle {
+    transform: translateY(50%);
+}
+.mt-logo {
+    margin-top: .5rem;
+}
+.center {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.c-eye {
+    color: #e75f2c;
+}
